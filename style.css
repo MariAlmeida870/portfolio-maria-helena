@@ -325,3 +325,14 @@ font-family: 'Times New Roman', Times, serif;
     color: #2508cb;
 
 }
+
+.imagem{
+    max-width: 100%;
+    width: 400px;
+    height: 540px;
+    text-align: center;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgb(181, 0, 39);
+
+}
