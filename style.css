@@ -54,6 +54,16 @@ margin: 0;
     order: 2;
 }
 
+.apresentacao-conteudo-texto {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
 .apresentacao-conteudo-titulo {
     font-size: 36px;
     font-family: Arial, Helvetica, sans-serif;
