@@ -5,7 +5,7 @@
 
 body{
 height: 100vh;
-background-color: rgb(0, 0, 0);
+background-color: rgb(99, 18, 18);
 background-attachment: fixed;
 color: rgb(255, 255, 255);
 margin: 0;
@@ -83,7 +83,7 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 .botao1 {
-    background-color: rgb(59, 2, 2);
+    background-color: rgb(99, 18, 18);
     color: rgb(220, 25, 25);
     width: 500px;
     height: 80px;
@@ -130,7 +130,7 @@ font-family: 'Times New Roman', Times, serif;
 /* fim botao1 */
 
 .botao2 {
-    background-color: rgb(19, 39, 78);
+    background-color: rgb(99, 18, 18);
     color: rgb(40, 126, 239);
     width: 500px;
     height: 80px;
@@ -176,7 +176,7 @@ font-family: 'Times New Roman', Times, serif;
 /*fim botao2 */
 
 .botao3 {
-    background-color: rgb(38, 37, 37);
+    background-color: rgb(99, 18, 18);
     color: rgb(171, 171, 171);
     width: 500px;
     height: 80px;
@@ -222,7 +222,7 @@ font-family: 'Times New Roman', Times, serif;
 /* fim botao3 */
 
 .botao4 {
-    background-color: rgb(16, 66, 11);
+    background-color: rgb(99, 18, 18);
     color: rgb(27, 249, 39);
     width: 500px;
     height: 80px;
@@ -268,7 +268,7 @@ font-family: 'Times New Roman', Times, serif;
 /* fim botao4 */
 
 .botao5 {
-    background-color: rgb(94, 11, 23);
+    background-color: rgb(99, 18, 18);
     color: rgb(220, 23, 69);
     width: 500px;
     height: 80px;
@@ -343,7 +343,7 @@ font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 0px 0px 20px rgb(179, 171, 173);
+    box-shadow: 0px 0px 20px rgb(56, 4, 4);
     transition:transform 0.3 ease-in-out;
     position: relative;
     overflow:hidden;
